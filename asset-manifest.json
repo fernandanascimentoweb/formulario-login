@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/formulario-login/static/css/main.6131cb89.css",
+    "main.js": "/formulario-login/static/js/main.374186d2.js",
+    "static/js/453.85311617.chunk.js": "/formulario-login/static/js/453.85311617.chunk.js",
+    "static/media/fundo.jpg": "/formulario-login/static/media/fundo.cbfab56ca17f938ccb96.jpg",
+    "index.html": "/formulario-login/index.html",
+    "main.6131cb89.css.map": "/formulario-login/static/css/main.6131cb89.css.map",
+    "main.374186d2.js.map": "/formulario-login/static/js/main.374186d2.js.map",
+    "453.85311617.chunk.js.map": "/formulario-login/static/js/453.85311617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6131cb89.css",
+    "static/js/main.374186d2.js"
+  ]
+}
